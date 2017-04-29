@@ -1,0 +1,15 @@
+{
+  "name": "npma",
+  "version": "1.0.0",
+  "description": "npm autoinstaller",
+  "main": "index.js",
+  "keywords": [
+    "npm", "packages", "autoinstall"
+  ],
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/mothgears/npma.git"
+  },
+  "author": "Artem Varshavin",
+  "license": "MIT"
+}
